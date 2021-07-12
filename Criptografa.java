@@ -90,4 +90,16 @@ public class Criptografa {
         
     }
 
+    public String invertText() {
+      
+      return "";
+    }
+
+    public String addRodonNumer(String entrada) {
+
+
+      return "";
+    }
+
+
   }
